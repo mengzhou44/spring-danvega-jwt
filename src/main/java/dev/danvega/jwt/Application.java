@@ -1,6 +1,6 @@
 package dev.danvega.jwt;
 
-import dev.danvega.jwt.config.RsaKeyProperties;
+import dev.danvega.jwt.security.RsaKeyProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

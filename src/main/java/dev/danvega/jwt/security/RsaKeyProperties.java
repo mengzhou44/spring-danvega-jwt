@@ -1,4 +1,4 @@
-package dev.danvega.jwt.config;
+package dev.danvega.jwt.security;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

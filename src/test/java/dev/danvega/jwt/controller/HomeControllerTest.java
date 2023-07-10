@@ -14,7 +14,7 @@ import org.springframework.security.test.context.support.WithMockUser;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 
-import dev.danvega.jwt.config.SecurityConfig;
+import dev.danvega.jwt.security.SecurityConfig;
 import dev.danvega.jwt.service.TokenService;
 
 @WebMvcTest({ HomeController.class, AuthController.class })
